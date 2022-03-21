@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Nudge and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jss-recipes.jss.Nudge</string>
+	<string>com.ms-marinelli.jss.Nudge</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
